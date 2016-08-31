@@ -1,0 +1,16 @@
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\GameClassLibrary.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\GameClassLibrary.pdb
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\MonoGame.Framework.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\SharpDX.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\SharpDX.DXGI.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\SharpDX.XInput.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\SharpDX.RawInput.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\bin\Debug\MonoGame.Framework.xml
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\obj\Debug\GameClassLibrary.dll
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\obj\Debug\GameClassLibrary.pdb
+C:\Users\thomas\Documents\GameAssignment\GameClassLibrary\obj\Debug\GameClassLibrary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/thomas/Downloads/S00141926/Game1/Content/SpriteFont/message.spritefont</File>
+    <File>C:/Users/thomas/Downloads/S00141926/Game1/Content/Sprites/HealthBar.png</File>
+    <File>C:/Users/thomas/Downloads/S00141926/Game1/Content/Sprites/tcShip2.png</File>
+    <File>C:/Users/thomas/Downloads/S00141926/Game1/Content/Sprites/tcShip3.png</File>
+    <File>C:/Users/thomas/Downloads/S00141926/Game1/Content/Sprites/star.png</File>
+    <File>C:/Users/thomas/Downloads/S00141926/Game1/Content/Sprites/tcShip1.png</File>
+    <File>C:/Users/thomas/Downloads/S00141926/Game1/Content/Background/BG1.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
